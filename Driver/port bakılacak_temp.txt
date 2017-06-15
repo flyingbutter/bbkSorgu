@@ -1,0 +1,154 @@
+16263869--ADSL--VDSL -> VDSL Modem Gerektirir--FİBERNET (FTTB - T11)--FİBERNET (Fiber internet servisi ADSL T11)--TTNET FİBERNET (GPON/AE)--Yalın Fiber Internet Servis--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+37676560--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16272377--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15247443--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15240745--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+61406998--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15254085--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+41858733--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15129498--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+17945651--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15255628--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16268659--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15411179--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15195774--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+49513324--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15255164--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15155334--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15156113--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+43884742--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+60389686--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+17961867--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+17963063--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15248020--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+57539266--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+42537505--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+43147930--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+18017926--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16787921--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+39999365--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15144227--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15073551--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16272465--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16272441--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15260401--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15155759--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+52526256--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+48683593--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15018226--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15155604--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15155759--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16266141--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16272377--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15195477--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+48037377--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16273042--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+18010970--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16322848--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+17948260--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15163092--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15194120--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16268180--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15242873--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15163092--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15237904--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16272264--Altyapı Uygundur.--Altyapı Uygundur.--Altyapı Uygundur.--Altyapı Uygundur.--TT xDSL sisteminden alınan bilgiye göre altyapı uygun değildir.Ancak Müşteri adresi Fibernet tekliflerine uygundur. Bu paketlerden birini teklif edebilirsiniz.--TT xDSL sisteminden alınan bilgiye göre altyapı uygun değildir.Ancak Müşteri adresi Fibernet tekliflerine uygundur. Bu paketlerden birini teklif edebilirsiniz.
+15203384--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+38855889--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+45352412--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+18010970--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+60695456--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+48594295--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+58000804--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16257685--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16265048--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+64519669--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15631246--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16271964--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+162691118--Belirtilen bbk ya ait herhangi bir adres bulunamadı--null--null--null--null--null
+16264511--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+18738364--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+63563154--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+60389684--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16257372--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+63525309--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16263357--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+58265730--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16259093--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+63646068--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16253290--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16275034--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+58182678--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16306294--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16267346--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+19678293--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16269067--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+57219950--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16255929--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16267317--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16231688--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+44681936--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16273852--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16873607--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16437069--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+47667680--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+20056977--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+55077899--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15697148--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+58175759--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15296046--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+60005895--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+45358290--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+57220683--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16310753--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+18009153--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15677772--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+42760543--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+59547492--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15699437--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+64476907--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16288966--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15717884--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+58774720--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15700590--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+61753710--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16266031--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+58941996--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+55758977--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+61553126--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16272462--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+40337318--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16253315--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15718188--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16266912--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+46677720--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16268708--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16233013--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15129516--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+15129373--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+19664104--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+211414--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+53432544--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+58624408--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+60069986--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+47891736--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16795236--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16448155--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+68346542--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+65054107--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16796446--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+43895830--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16794931--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+37541782--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+54711206--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16780296--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+61782452--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+47414361--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16819203--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+39947139--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16698866--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16795236--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+53299504--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+16781498--Altyapı Uygundur.--Altyapı Uygundur.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+41234308--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+56951515--Hizmet bölgesinde port bulunmamaktadır.--Hizmet bölgesinde port bulunmamaktadır.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
