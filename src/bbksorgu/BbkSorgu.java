@@ -509,13 +509,26 @@ catch (Exception e)
               WebElement tamambuton=getElementByLocator(By.xpath("//*[@id=\"d1::msgDlg::close\"]"));
             tamambuton.click();
             sleep(1);
-               text[0][1]="Belirtilen ADSL no'ya ait herhangi bir kayıt bulunamadı";
+            WebElement reason=getElementByLocator(By.xpath("//*[@id=\"d1_msgDlg::_cnt\"]/div/table/tbody/tr/td/table/tbody/tr/td[2]/div"));
+               text[0][1]=reason.getAttribute("innerText");
+               xdslstr="";
+               System.out.println("uyarı bulundu");
+               return text;
+               }
+           if(isElementClickable(By.xpath("//*[@id=\"d1_msgDlg_cancel\"]/a")))
+           {  
+              WebElement tamambuton=getElementByLocator(By.xpath("//*[@id=\"d1_msgDlg_cancel\"]/a"));
+            tamambuton.click();
+            sleep(1);
+              WebElement reason=getElementByLocator(By.xpath("//*[@id=\"d1_msgDlg::_cnt\"]/div/table/tbody/tr/td/table/tbody/tr/td[2]/div"));
+               text[0][1]=reason.getAttribute("innerText");
                xdslstr="";
                System.out.println("uyarı bulundu");
                return text;
                }
            WebElement xdslno;
-         try{  satır01=getElementByLocator(By.xpath("//*[@id=\"r1:0:r1:0:ol12\"]/td[2]"),3);
+         try{  
+             satır01=getElementByLocator(By.xpath("//*[@id=\"r1:0:r1:0:ol12\"]/td[2]"),3);
                 xdslno=getElementByLocator(By.xpath("//*[@id=\"r1:0:r1:0:plam2\"]/td[2]"),3);
                 
            }
@@ -527,7 +540,8 @@ catch (Exception e)
                
            }            
            
-       try{ xdslno=getElementByLocator(By.xpath("//*[@id=\"r1:0:r1:0:plam2\"]/td[2]"),3);
+       try{
+           xdslno=getElementByLocator(By.xpath("//*[@id=\"r1:0:r1:0:plam2\"]/td[2]"),3);
                    }catch(org.openqa.selenium.TimeoutException e){
                     text[0][1]="hata";
                xdslstr="";
@@ -539,20 +553,32 @@ catch (Exception e)
           
                    xdslstr=xdslno.getAttribute("innerText");
             System.out.println(xdslstr+":"+xdslpast);
-           if(!(xdslpast.equals("") && xdslstr.equals("")))
-              
+           if(!(xdslpast.equals("") && xdslstr.equals("")))             
                while(xdslpast.equals(xdslstr))
-               {System.out.print(".");
+               {
+                   System.out.print(".");
                    sleep(1);
-          try{ xdslno=getElementByLocator(By.xpath("//*[@id=\"r1:0:r1:0:plam2\"]/td[2]"),3);
-           xdslstr=xdslno.getAttribute("innerText");}
+          try{ 
+              xdslno=getElementByLocator(By.xpath("//*[@id=\"r1:0:r1:0:plam2\"]/td[2]"),3);
+           xdslstr=xdslno.getAttribute("innerText");
+          }
           catch(org.openqa.selenium.TimeoutException e){
            text[0][1]="hata";
                xdslstr="";
                System.out.println("timeout");
                return text;
           }
-               
+                  if(isElementClickable(By.xpath("//*[@id=\"d1_msgDlg_cancel\"]/a")))
+           {  
+              WebElement tamambuton=getElementByLocator(By.xpath("//*[@id=\"d1_msgDlg_cancel\"]/a"));
+            tamambuton.click();
+            sleep(1);
+              WebElement reason=getElementByLocator(By.xpath("//*[@id=\"d1_msgDlg::_cnt\"]/div/table/tbody/tr/td/table/tbody/tr/td[2]/div"));
+               text[0][1]=reason.getAttribute("innerText");
+               xdslstr="";
+               System.out.println("uyarı bulundu");
+               return text;
+               }
                }
            
            satır01=getElementByLocator(By.xpath("//*[@id=\"r1:0:r1:0:ol12\"]/td[2]"));
