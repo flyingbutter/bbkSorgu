@@ -71,7 +71,7 @@
 
     -->
     <target name="package-for-store" depends="jar">
-    <property name="store.jar.name" value="AltYapı Sorgu"/>
+    <property name="store.jar.name" value="bbkSorgu"/>
     <property name="store.dir" value="store"/>
     <property name="store.jar" value="${store.dir}/${store.jar.name}.jar"/>
     <echo message="Packaging ${application.title} into a single JAR at ${store.jar}"/>
@@ -90,5 +90,4 @@
     </zip>
     <delete file="${store.dir}/temp_final.jar"/>
 </target>
-    
 </project>

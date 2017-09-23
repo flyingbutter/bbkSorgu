@@ -1,0 +1,2 @@
+-265118--VDSL -> VDSL Modem Gerektirir--TTNET FİBERNET (GPON/AE)--FİBERNET (FTTB - T11)--FİBERNET (Fiber internet servisi ADSL T11)--Yalın Fiber Internet Servis--ADSL--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.
+52786--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.--Alt yapı uygun değildir.

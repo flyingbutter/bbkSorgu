@@ -33,6 +33,8 @@ import org.apache.poi.ss.util.CellUtil;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.StaleElementReferenceException;
 import org.openqa.selenium.WebDriver;
@@ -43,7 +45,7 @@ import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+import javax.swing.JOptionPane;
 /**
  *
  * @author muhammed
@@ -249,8 +251,14 @@ sleep(1);
    menu2.click();
 sleep(1);
    
-   
-      WebElement menu3=getElementByLocator(By.xpath("//*[contains(text(), 'ISS Transfer')]"));
+   WebElement menu3 = null;
+try{
+    menu3=getElementByLocator(By.xpath("//*[contains(text(), 'ISS Transfer')]"));
+}catch(Exception e)
+{
+      JOptionPane.showMessageDialog(null, "alert!");
+
+}
     asd= wait2.until( ExpectedConditions.elementToBeClickable(menu3));
    menu3.click();
    sleep(1);
@@ -655,7 +663,8 @@ catch(Exception e){
                 adresButon.click();
 }
             sleep(1);
-   
+    WebElement frametoget=getElementByLocator(By.xpath("//*[@title='İçerik']"));
+            String frame_id=frametoget.getAttribute("id");
             WebDriver frame = wait3.until( ExpectedConditions.frameToBeAvailableAndSwitchToIt(getElementByLocator(By.xpath("//*[@title='İçerik']"))));
             sleep(1);
             
@@ -668,14 +677,45 @@ catch(Exception e){
             
             WebElement aramabuton=getElementByLocator(By.xpath("//*[@id=\"cmdFindByCondoUnitId\"]"));
             asd=wait3.until(ExpectedConditions.elementToBeClickable(aramabuton));
-            aramabuton.click();
-            sleep(1);
-               WebElement check=getElementByLocator(By.xpath("//*[@id=\"cmdFindByCondoUnitId\"]"));
-                      asd=wait3.until(ExpectedConditions.elementToBeClickable(check));
+            try{
+                aramabuton.click();
+            }
+            catch(org.openqa.selenium.TimeoutException e)
+            {             
+                //  aramabuton.click();
+            e.printStackTrace();
+               sleep(3);
+               int g=0;
+               while(g<10 && getElementByLocator(By.xpath(("//*[@id=\"soc5::content\"]"))).getAttribute("title").length()<1)
+                      {
+                      sleep(1);
+                   }
+    if(g>9)  
+    try{        
+        
+        JavascriptExecutor js=(JavascriptExecutor) driver1;     
+   js.executeScript("document.getElementById('"+frame_id+"').contentWindow.location.reload();");
+  
+    }
+    catch(Exception z)
+    {
+      JOptionPane.showMessageDialog(null, "manual refresh required");
 
-          if( !getElementByLocator(By.xpath("//*[@id=\"soc2::content\"]"),2).isSelected())
+  
+    }
+            }
+            
+             while(getElementByLocator(By.xpath(("//*[@id=\"soc5::content\"]"))).getAttribute("title").length()<1)
+                      {
+                      sleep(3);
+                      }
+         //      WebElement check=getElementByLocator(By.xpath("//*[@id=\"cmdFindByCondoUnitId\"]"));
+         //             asd=wait3.until(ExpectedConditions.elementToBeClickable(check));
+                    
+       /*   if( !getElementByLocator(By.xpath("//*[@id=\"soc2::content\"]"),2).isSelected())
            {
-              try{        WebDriverWait waity = new WebDriverWait(driver1, 1); 
+              try{    
+                  WebDriverWait waity = new WebDriverWait(driver1, 1); 
 
                System.out.println("hata");
                 text[0][1]="Belirtilen bbk ya ait herhangi bir adres bulunamadı";
@@ -687,9 +727,11 @@ WebElement hata=getElementByLocator(By.xpath("//*[@id=\"d1::msgDlg::close\"]"));
             asd=waity.until(ExpectedConditions.elementToBeClickable(close));
             close.click();
             
-            return text;}
+            return text;
+              }
               catch(Exception e){}
            }
+          */
                
             Select kullanım=new Select(getElementByLocator(By.xpath("//*[@id=\"soc6::content\"]")));
             kullanım.selectByVisibleText("Ev");
@@ -707,7 +749,7 @@ WebElement hata=getElementByLocator(By.xpath("//*[@id=\"d1::msgDlg::close\"]"));
    
 wait3.until( ExpectedConditions.invisibilityOfElementLocated(blockingpane));
 
-WebElement adreskaldır=getElementByLocator(By.xpath("//*[@id=\"pt1:r1:1:pgl5\"]")); 
+WebElement adreskaldır=getElementByLocator(By.xpath("//*[contains(text(), 'Adresi Kaldır')]")); 
  asd=wait3.until(ExpectedConditions.elementToBeClickable(adreskaldır));
  
  
@@ -722,7 +764,14 @@ WebElement adreskaldır=getElementByLocator(By.xpath("//*[@id=\"pt1:r1:1:pgl5\"]
             wait3.until( ExpectedConditions.invisibilityOfElementLocated(blockingpane));
             kontrolbuton=getElementByLocator(By.xpath("//*[@id=\"pt1:r1:1:cb1\"]"));  
               asd=wait3.until(ExpectedConditions.elementToBeClickable(kontrolbuton));
+               try{
                 kontrolbuton.click();
+               }
+               catch(Exception t)
+               {
+                   sleep(5);
+                kontrolbuton.click();
+               }
            }
            
            
